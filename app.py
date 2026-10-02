@@ -23,7 +23,7 @@ from groq import Groq
 #   Get a free key at: https://console.groq.com/keys
 #   Replace the text between the quotes below  (keep the quotes!)
 #
-GROQ_API_KEY = "PASTE_YOUR_GROQ_API_KEY_HERE"
+GROQ_API_KEY = "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"
 #
 # WARNING: if your GitHub repo is PUBLIC, do NOT commit a real key.
 # Safer option: leave the line above as it is and put the key in
