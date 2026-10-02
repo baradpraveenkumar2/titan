@@ -32,7 +32,7 @@ GROQ_API_KEY = "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"
 
 CSV_FILE = "retailer_fmcg_synthetic_dashboard_data.csv"   # must be next to app.py
 TABLE_NAME = "sales"
-MODELS = ["llama-3.3-70b-versatile", "llama-3.1-8b-instant"]
+MODELS = ["openai/gpt-oss-120b", "openai/gpt-oss-20b"]
 MAX_ROWS_SHOWN = 2000
 
 st.set_page_config(page_title="FMCG AI Analyst", page_icon="📊", layout="wide")
